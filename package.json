@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jsdom": "^27.1.0",
+    "react-player": "^3.3.3",
+    "react-virtualized-auto-sizer": "^1.0.26"
+  }
+}
